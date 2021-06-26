@@ -42,6 +42,8 @@ button {
     color: #EEEEEE;
     font-size: 3rem;
     background-color: #4ECCA3;
+    font-weight: bold;
+    letter-spacing: 0.3rem;
     font-family: 'Indie Flower', cursive;
 
 }

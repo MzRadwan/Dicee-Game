@@ -10,4 +10,6 @@ document.getElementsByTagName("button")[0].addEventListener("click", function() 
   } else if (randomNumber1 === randomNumber2) {
     document.querySelector("h1").innerHTML = "Draw!";
   }
+
+  this.innerHTML = "Play again";
 });
